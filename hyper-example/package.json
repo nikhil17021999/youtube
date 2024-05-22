@@ -23,7 +23,7 @@
     "nodemon": "^2.0.4",
     "parcel": "^1.12.4",
     "popper.js": "^1.16.1",
-    "ts-node-dev": "^1.0.0-pre.57",
+    "ts-node-dev": "^1.0.0",
     "uuid": "^8.3.0"
   },
   "devDependencies": {
