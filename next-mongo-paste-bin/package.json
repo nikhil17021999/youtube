@@ -10,7 +10,7 @@
   "dependencies": {
     "bootstrap": "^4.5.3",
     "clipboard-copy": "^4.0.1",
-    "mongoose": "^5.11.7",
+    "mongoose": "^6.13.6",
     "next": "10.0.3",
     "randomstring": "^1.1.5",
     "react": "17.0.1",
